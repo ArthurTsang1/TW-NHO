@@ -1,0 +1,14 @@
+{
+  "name": "day4-homework",
+  "version": "1.0.0",
+  "description": "The homework of NHO day4.",
+  "main": "index.js",
+  "author": "wtzeng",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
